@@ -113,6 +113,11 @@ The result: **35% faster hiring**, **bias elimination**, and a **scalable recrui
 
 ---
 ![Screenshot](assets/home.jpg)
+![ScreenShot](assets/candidate.jpg)
+![ScreenShot](assets/payment.jpg)
+![ScreenShot](assets/company.jpg)
+![ScreenShot](assets/package.jpg)
+![ScreenShot](assets/interview.jpg)
 
 
 ## Demo Links
