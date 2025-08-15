@@ -112,6 +112,8 @@ The result: **35% faster hiring**, **bias elimination**, and a **scalable recrui
 3. Get evaluated instantly with feedback sent to recruiters.
 
 ---
+![Uploading image.png…]()
+
 
 ## Demo Links
 
