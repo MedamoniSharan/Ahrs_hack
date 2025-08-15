@@ -112,7 +112,8 @@ The result: **35% faster hiring**, **bias elimination**, and a **scalable recrui
 3. Get evaluated instantly with feedback sent to recruiters.
 
 ---
-![Uploading image.png…]()
+![Screenshot](<img width="1600" height="855" alt="image" src="https://github.com/user-attachments/assets/445133e5-6012-49a3-af5e-40a4d3e2ca3a" />
+)
 
 
 ## Demo Links
